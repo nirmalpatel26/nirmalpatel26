@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **patelnirmal9977@gmail.com**
 
-- 📄 Know about my experiences [Resume](Resume)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12fhxB2pnj93tlCq8CNLWT2Rvy7g4eN8N/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
