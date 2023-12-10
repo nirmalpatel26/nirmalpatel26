@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](Portfolio)
+- 👨‍💻 All of my projects are available at [Portfolio]( https://nirmalpatel26.github.io/portfolio/)
 
 - 💬 Ask me about **React JavaScript and express Html CSS**
 
